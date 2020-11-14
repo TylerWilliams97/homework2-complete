@@ -1,0 +1,60 @@
+.About{
+    margin: 25px;
+}
+
+footer{
+    position: absolute;
+ bottom: 10px;
+ width: 100%;
+ text-align: center;
+}
+
+.jumbofix{
+    padding: 100px;
+}
+
+form{
+    padding: 75px;
+    bottom: 25px;
+}
+
+.centertext{
+    text-align: center;
+}
+
+img{
+    height: 250px;
+    width: 250px;
+}
+main{
+    padding: 10px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.projectborder{
+    border-style: solid;
+    border-radius: 10px;
+}
+/*portfolio container*/
+.page-container {
+    position: relative;
+    min-height: 100vh;
+  }
+.aboutme{
+    padding-left: 40px;
+    padding-top: 10px;
+
+}
+.line{
+    border-top: 1px solid gray;
+}
+.bio{
+    padding-left: 50px;
+    padding-right: 250px;
+}
+.aboutmepos{
+    position: absolute;
+    bottom: 100px;
+    padding: 25px;
+}
